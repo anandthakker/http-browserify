@@ -1,5 +1,5 @@
 {
-  "name": "http-browserify",
+  "name": "http-browserify-robertknight",
   "version": "1.6.0",
   "description": "http module compatability for browserify",
   "main": "index.js",
